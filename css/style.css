@@ -124,6 +124,15 @@ header {
 	background: #f9f9f9;
 }
 
+header ul {
+	list-style: none;
+	overflow: auto;
+}
+
+header ul li {
+	float: left;
+}
+
 header a {
 	margin-top: 15px;
 	display: inline-block;
